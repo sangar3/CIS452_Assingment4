@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+		 * (Santiago Garcia II)
+		 * (HealthBar.cs)
+		 * (Assignment 4)
+		 * (This is the another decorator that sets the values for the boss fight in the game. )
+	*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

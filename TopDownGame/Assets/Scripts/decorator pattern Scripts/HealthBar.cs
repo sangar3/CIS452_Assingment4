@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+		 * (Santiago Garcia II)
+		 * (HealthBar.cs)
+		 * (Assignment 4)
+		 * (This is the main decorator that sets the values in each health bar objects in the game. )
+	*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;

@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+		 * (Santiago Garcia II)
+		 * (ChangeTank.cs)
+		 * (Assignment 4)
+		 * (This is the main componenet that calls a method to show all healh bars in the game)
+	*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
